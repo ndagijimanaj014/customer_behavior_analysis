@@ -190,7 +190,3 @@ This project demonstrates a complete, end-to-end data analytics workflow — com
 
 ---
 
-## Contact
-
-**[Jean Damascene Ndagijimana]**
-[damasiture92@gmail.com] | [LinkedIn] | [Portfolio/GitHub]
