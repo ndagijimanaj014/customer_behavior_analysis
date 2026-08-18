@@ -106,9 +106,8 @@ The Power BI dashboard provides an interactive view of key metrics and findings.
 - Interactive filtering for deeper exploration
 - Data-driven business insights
 
-> 📊 **[Insert dashboard screenshot here]**
->
-> *(Tip: Use `Windows + Shift + S` to snip the dashboard, save as PNG, and embed it here using: `![Dashboard](powerbi/dashboard_screenshot.png)`)*
+<img width="1354" height="785" alt="Screenshot 2026-08-17 204807" src="https://github.com/user-attachments/assets/863a8018-a1f8-4ea7-85bd-19a7abae2f86" />
+
 
 ---
 
